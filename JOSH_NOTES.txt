@@ -1,0 +1,1 @@
+https://machinelearningprojects.net/train-yolov7-on-the-custom-dataset/#Step_2_%E2%80%93_Install_requirements
